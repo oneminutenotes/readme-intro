@@ -50,7 +50,7 @@ ___
 
 <!-- Images -->
 
-![Github logo](./icon.png)
+![Github logo](./icon.png "One Minute Notes")
 
 
 <!-- Github Markdown -->
